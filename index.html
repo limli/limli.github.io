@@ -1,1 +1,34 @@
-hello world
+---
+title: "My Portfolio"
+sections:
+  - education
+  - experience
+  - achievements
+  - modules
+  - contact
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav.html %}
+  {% include header.html %}
+
+  {% for section in page.sections %}
+  {% assign x = forloop.index | modulo: 2 %}
+  {% if x  == 1 %}
+  {% include {{section}}.html%}
+  {% else %}
+  {% include {{section}}.html classname="altbg"%}
+  {% endif %}
+  
+  
+  {% endfor %}
+
+  {% include scripts.html %}
+</body>
+
+</html>
