@@ -1,0 +1,27 @@
+[
+    {
+        "title": "CS modules",
+        "modules": [
+            {
+                "code": "CS1231",
+                "description": "something",
+                "grade": "A+"
+            },
+            {
+                "code": "CS1231",
+                "description": "something",
+                "grade": "A+"
+            }
+        ]
+    },
+    {
+        "title": "MA modules",
+        "modules": [
+            {
+                "code": "MA1102R",
+                "description": "something",
+                "grade": "A+"
+            }
+        ]
+    }
+]
