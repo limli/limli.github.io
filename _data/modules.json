@@ -53,6 +53,11 @@
                 "grade": "A+"
             },
             {
+                "code": "CS3203",
+                "description": "Software Engineering Project",
+                "grade": "A"
+            },
+            {
                 "code": "CS3230",
                 "description": "Design and Analysis of Algorithms",
                 "grade": "A+"
@@ -133,8 +138,23 @@
                 "grade": "A+"
             },
             {
+                "code": "MA3236",
+                "description": "Non-Linear Programming",
+                "grade": "A"
+            },
+            {
+                "code": "MA4270",
+                "description": "Data Modelling and Computation",
+                "grade": "A+"
+            },
+            {
                 "code": "ST2131",
                 "description": "Probability",
+                "grade": "A"
+            },
+            {
+                "code": "ST2132",
+                "description": "Mathematical Statistics",
                 "grade": "A"
             }
         ]
@@ -173,6 +193,11 @@
                 "grade": "S"
             },
             {
+                "code": "GET1004",
+                "description": "Cyber Security",
+                "grade": "S"
+            },
+            {
                 "code": "IS1103",
                 "description": "IS Innovations in Organisations and Society",
                 "grade": "S"
@@ -185,6 +210,11 @@
             {
                 "code": "LAJ2201",
                 "description": "Japanese 2",
+                "grade": "S"
+            },
+            {
+                "code": "LAJ2202",
+                "description": "Japanese 3",
                 "grade": "S"
             },
             {
