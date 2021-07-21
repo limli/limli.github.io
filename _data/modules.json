@@ -86,6 +86,11 @@
                 "code": "CS4231",
                 "description": "Parallel and Distributed Algorithms",
                 "grade": "A+"
+            },
+            {
+                "code": "CS5330",
+                "description": "Randomized Algorithms",
+                "grade": "A+"
             }
         ]
     },
@@ -133,6 +138,11 @@
                 "grade": "A+"
             },
             {
+                "code": "MA3111",
+                "description": "Complex Analysis I",
+                "grade": "A+"
+            },
+            {
                 "code": "MA3233",
                 "description": "Combinatorics and Graphs II",
                 "grade": "A+"
@@ -140,6 +150,26 @@
             {
                 "code": "MA3236",
                 "description": "Non-Linear Programming",
+                "grade": "A"
+            },
+            {
+                "code": "MA4207",
+                "description": "Mathematical Logic",
+                "grade": "A-"
+            },
+            {
+                "code": "MA4229",
+                "description": "Approximation Theory",
+                "grade": "A"
+            },
+            {
+                "code": "MA4260",
+                "description": "Stochastic Operations Research",
+                "grade": "A"
+            },
+            {
+                "code": "MA4264",
+                "description": "Game Theory",
                 "grade": "A"
             },
             {
