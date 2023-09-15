@@ -101,6 +101,11 @@
                 "code": "CS5330",
                 "description": "Randomized Algorithms",
                 "grade": "A+"
+            },
+            {
+                "code": "YSC4230",
+                "description": "Programming Language Design and Implementation",
+                "grade": "A+"
             }
         ]
     },
@@ -276,11 +281,6 @@
                 "code": "XFC4101",
                 "description": "Integrated Honours Thesis",
                 "grade": "A"
-            },
-            {
-                "code": "YSC4230",
-                "description": "Programming Language Design and Implementation",
-                "grade": "A+"
             }
         ]
     }

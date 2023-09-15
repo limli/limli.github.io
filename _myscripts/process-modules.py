@@ -51,7 +51,7 @@ cs_modules = []
 ma_modules = []
 other_modules = []
 for module in modules:
-    if re.match(r"(CS)[0-9]{4}[A-Z]?", module["code"]):
+    if re.match(r"(CS)[0-9]{4}[A-Z]?", module["code"]) or module["code"] == "YSC4230":
         cs_modules.append(module)
     elif re.match(r"(MA|ST)[0-9]{4}[A-Z]?", module["code"]):
         ma_modules.append(module)
