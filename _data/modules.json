@@ -88,6 +88,16 @@
                 "grade": "A+"
             },
             {
+                "code": "CS4234",
+                "description": "Optimisation Algorithms",
+                "grade": "A+"
+            },
+            {
+                "code": "CS5234",
+                "description": "Algorithms at Scale",
+                "grade": "A+"
+            },
+            {
                 "code": "CS5330",
                 "description": "Randomized Algorithms",
                 "grade": "A+"
@@ -208,6 +218,11 @@
                 "grade": "S"
             },
             {
+                "code": "GEH1034",
+                "description": "Clean Energy and Storage",
+                "grade": "A+"
+            },
+            {
                 "code": "GEQ1000",
                 "description": "Asking Questions",
                 "grade": "CS"
@@ -248,8 +263,23 @@
                 "grade": "S"
             },
             {
+                "code": "LSM1301",
+                "description": "General Biology",
+                "grade": "S"
+            },
+            {
                 "code": "PC1432",
                 "description": "Physics IIE",
+                "grade": "A+"
+            },
+            {
+                "code": "XFC4101",
+                "description": "Integrated Honours Thesis",
+                "grade": "A"
+            },
+            {
+                "code": "YSC4230",
+                "description": "Programming Language Design and Implementation",
                 "grade": "A+"
             }
         ]

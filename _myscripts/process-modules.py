@@ -1,4 +1,6 @@
 import xlrd
+# Note, xlrd has deprecated .xlsx files, so you'd need to downgrade it for it to work
+# ie pip3 install xlrd==1.2.0
 import re
 import json
 
@@ -55,8 +57,15 @@ for module in modules:
         ma_modules.append(module)
     else:
         other_modules.append(module)
-print(json.dumps(cs_modules))
-print()
-print(json.dumps(ma_modules))
-print()
-print(json.dumps(other_modules))
+print(json.dumps([
+    {
+        "title": "CS modules",
+        "modules": cs_modules
+    },{
+        "title": "Math modules",
+        "modules": ma_modules
+    },{
+        "title": "Other modules",
+        "modules": other_modules
+    }
+]))
