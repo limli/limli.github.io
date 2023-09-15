@@ -1,8 +1,29 @@
 [
     {
+        "year": 2022,
+        "achievements": [
+            "Graduated from NUS with Double Degree in Computer Science (First Class Honours) and Applied Mathematics (First Class Honours)",
+            "Google Code Jam to I/O for Women - 2nd",
+            "Interned at Open Government Products GovTech, Dec 21 to Feb 22"
+        ]
+    },
+    {
+        "year": 2021,
+        "achievements": [
+            "ICPC Asia Jakarta Regional Programming Contest, from 21 - 22 December, Team 1st. Will represent Singapore at 2022 ACM ICPC World Finals to he held in March 2023",
+            "Facebook Singapore Virtual Hack, Team 2nd",
+            "Interned at Jane Street Hong Kong, May-Aug",
+            "NUS Dean's List Academic Year 2020/2021 Semester 2 - Mathematics",
+            "NUS Dean's List Academic Year 2020/2021 Semester 1 - Computer Science",
+            "NUS Dean's List Academic Year 2020/2021 Semester 1 - Mathematics"
+        ]
+    },
+    {
         "year": 2020,
         "achievements": [
+            "Interned at Google, May-Aug",
             "NUS Dean's List Academic Year 2019/2020 Semester 2 - Computer Science",
+            "NUS Dean's List Academic Year 2019/2020 Semester 2 - Mathematics",
             "Awarded Outstanding Performance in CS3235 Computer Security",
             "Hack & Roll 2020 - Team Top 8"
         ]
@@ -10,8 +31,9 @@
     {
         "year": 2019,
         "achievements": [
-            "Represented Singapore at ICPC Asia Manila Regional Programming Contest held in Manila, Philippines, from 14 -15 December. Team 1st",
-            "Represented Singapore at ICPC Asia Bangkok Regional Programming Contest held in Bangkok, Thailand, from 2 -3 November. Team 17th",
+            "Interned at GIC, May-Aug",
+            "Represented Singapore at ICPC Asia Manila Regional Programming Contest held in Manila, Philippines, from 14 - 15 December. Team 1st",
+            "Represented Singapore at ICPC Asia Bangkok Regional Programming Contest held in Bangkok, Thailand, from 2 - 3 November. Team 17th",
             "Google Code Jam to I/O for Women - 18th"
         ]
     },
