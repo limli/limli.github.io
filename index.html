@@ -15,9 +15,9 @@ sections:
 {% for section in page.sections %}
 {% assign x = forloop.index | modulo: 2 %}
 {% if x  == 1 %}
-{% include {{section}}.html%}
+<div>{% include {{section}}.html%}</div>
 {% else %}
-{% include {{section}}.html classname="altbg"%}
+<div class="altbg">{% include {{section}}.html%}</div>
 {% endif %}
 
 {% endfor %}
